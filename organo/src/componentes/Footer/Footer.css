@@ -1,0 +1,18 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 15vh;
+    background-color: #CF7500;
+    
+}
+
+.redes_sociais img{
+    display: inline-block;
+    cursor: pointer;
+    margin-right: 50px;
+}
+
+.desenvolvimento h2{
+    color: white;
+}
